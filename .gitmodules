@@ -1,0 +1,3 @@
+[submodule "tamil"]
+	path = tamil
+	url = https://github.com/Rakshitaaj/tamil.git
